@@ -1,3 +1,16 @@
+## 👋 Hey, I'm Bipin Yadav!
+
+🎓 CSE Student | 💻 MERN & Java Developer  
+🚀 Exploring AI & ML  
+
+---
+
+### 🌐 Socials
+- 💼 LinkedIn: https://linkedin.com/in/bipin-yadav-612b102bb
+- 🐙 GitHub: https://github.com/Bipin-Yadav
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bipin) 
