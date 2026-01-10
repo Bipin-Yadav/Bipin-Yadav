@@ -1,7 +1,12 @@
 ## 👋 Hey, I'm Bipin Yadav!
 
-🎓 CSE Student | 💻 MERN & Java Developer  
-🚀 Exploring AI & ML  
+### 🚀 About Me
+👨‍💻 CSE student who enjoys turning ideas into working code  
+⚙️ Building projects with MERN stack & Java  
+🧠 Exploring the world of AI & Machine Learning  
+🌱 Learning something new every day (even bugs teach me 😉)  
+🎯 Goal: Become a skilled full-stack developer with AI expertise
+  
 
 ---
 
