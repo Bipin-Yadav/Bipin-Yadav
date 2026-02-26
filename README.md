@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Bipin Yadav!
 
 ### 🚀 About Me
-👨‍💻 CSE student who enjoys turning ideas into working code  
+👨‍💻 CS student who enjoys turning ideas into working code  
 ⚙️ Building projects with MERN stack & Java  
 🧠 Exploring the world of AI & Machine Learning  
 🌱 Learning something new every day (even bugs teach me 😉)  
