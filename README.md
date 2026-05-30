@@ -27,7 +27,7 @@ I am a TYBSc Computer Science student at Mithibai College, passionate about turn
 
 ### 🏗️ Featured Projects
 * **Hospital Management System:** A comprehensive MERN stack application featuring distinct multi-role dashboards (Admin, Doctor, Patient) utilizing a custom status-based tracking system for streamlined patient oversight.
-* **Vistara Living Platform:** Designed and deployed a business website and visual identity for an interior design brand, featuring responsive layouts and integrated dark mode functionality.
+* [**Vistara Living Platform 🌐**](https://vistaraliving.in/): Designed and deployed a business website and visual identity for an interior design brand, featuring responsive layouts and integrated dark mode functionality.
 * **Self-Drive Vehicle Rental App:** End-to-end academic project focusing on user booking flows and backend inventory management.
 
 ---
