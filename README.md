@@ -39,16 +39,19 @@ When I'm not debugging or optimizing cloud architectures, you can usually find m
 * 🧠 **Exploring Psychology:** Fascinated by human behavior and how the mind works.
 
 ---
-
 ### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bipin-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipin-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bipin-Yadav&theme=dark&hide_border=false" width="100%" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bipin-Yadav&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Bipin's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipin-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Bipin's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bipin-Yadav&theme=dark&hide_border=false" alt="Bipin's GitHub Streak" />
+</p>
 
 ---
 
@@ -63,7 +66,5 @@ When I'm not debugging or optimizing cloud architectures, you can usually find m
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Bipin-Yadav&icon=0&color=0" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Bipin-Yadav&label=Profile%20Views&color=0B71B9&style=flat" alt="Profile Views" />
 </p>
