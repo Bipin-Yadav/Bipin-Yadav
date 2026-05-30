@@ -41,17 +41,11 @@ When I'm not debugging or optimizing cloud architectures, you can usually find m
 ---
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bipin-Yadav&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Bipin's GitHub Stats" />
-</p>
+![Bipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bipin-Yadav&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipin-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Bipin's Top Languages" />
-</p>
+![Bipin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipin-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bipin-Yadav&theme=dark&hide_border=false" alt="Bipin's GitHub Streak" />
-</p>
+![Bipin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bipin-Yadav&theme=dark&hide_border=false)
 
 ---
 
