@@ -41,12 +41,9 @@ When I'm not debugging or optimizing cloud architectures, you can usually find m
 ---
 ### 📊 GitHub Activity
 
-![Bipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bipin-Yadav&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-
-![Bipin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipin-Yadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Bipin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bipin-Yadav&theme=dark&hide_border=false)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bipin-Yadav&theme=dark&hide_border=false" alt="Bipin's GitHub Streak" />
+</p>
 ---
 
 ### 🌐 Connect With Me
