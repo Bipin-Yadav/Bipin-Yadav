@@ -45,6 +45,18 @@ When I'm not debugging or optimizing cloud architectures, you can usually find m
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bipin-Yadav&theme=github_dark" alt="Bipin's GitHub Stats" />
 </p>
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bipin-Yadav&show_icons=true&theme=transparent&hide_border=true&title_color=0B71B9&icon_color=0B71B9&text_color=ffffff" alt="Bipin's GitHub Stats" />
+</p>
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Bipin-Yadav&theme=dark" alt="Bipin's 3D Contributions" />
+</p>
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/bipin-yadav-612b102bb" target="_blank">
