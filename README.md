@@ -42,7 +42,12 @@ When I'm not debugging or optimizing cloud architectures, you can usually find m
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bipin-Yadav&show_icons=true&theme=dark&hide_border=false" alt="Bipin's GitHub Stats" />
+  <object data="https://github-readme-streak-stats.herokuapp.com/?user=Bipin-Yadav&theme=dark&hide_border=false" type="image/svg+xml">
+    <!-- This happy fallback shows up only if the link above breaks -->
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60a/512.webp" width="100" height="100" alt="Happy Face Fallback" />
+    <br />
+    <span>System is resting, but keeping the positive vibes active! 😊</span>
+  </object>
 </p>
 
 ### 🌐 Connect With Me
